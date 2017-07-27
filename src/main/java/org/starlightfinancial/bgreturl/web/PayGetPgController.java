@@ -23,7 +23,9 @@ public class PayGetPgController {
         } catch (UnsupportedEncodingException e) {
             log.error("UnsupportedEncodingException");
         }
+
         GoPayBean bean = this.getGoPayBean(req);
+
         // 打印出接口发送过来的信息
         log.info("=========== 打印商户收到的前台响应信息  start=================");
         log.info(bean.getMerId());
