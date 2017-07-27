@@ -1,4 +1,4 @@
-package org.starlightfinancial.bgreturl.util;
+package org.starlightfinancial.bgreturl.utility;
 
 /**
  * Created by sili.chen on 2017/7/26

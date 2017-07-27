@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.starlightfinancial.bgreturl.domain.GoPayBean;
 import org.starlightfinancial.bgreturl.domain.MortgageDeduction;
 import org.starlightfinancial.bgreturl.domain.MortgageDeductionRepository;
-import org.starlightfinancial.bgreturl.util.Constant;
+import org.starlightfinancial.bgreturl.utility.Constant;
 
 import javax.servlet.http.HttpServletRequest;
 import java.io.UnsupportedEncodingException;
